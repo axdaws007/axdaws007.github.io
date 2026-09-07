@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.axdaws007.cleaningapp",
+      "sha256_cert_fingerprints": [
+        "4F:92:6C:A5:3A:1A:C3:91:EB:D9:00:8D:D1:78:A8:4C:25:9F:D4:68:3F:8C:7F:12:BF:29:8A:9C:AD:02:40:B4"
+      ]
+    }
+  }
+]
